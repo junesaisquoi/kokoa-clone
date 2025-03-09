@@ -1,3 +1,4 @@
 # Kokoa Clone Challenge
 
-My Kokoa clone codes
+My Kokoa Clone Codes
+HTML & CSS are so much fun!
